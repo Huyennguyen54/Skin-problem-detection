@@ -23,5 +23,6 @@ I use Roboflows and YOLOV8 to train the model to classify skin defects
 The dataset consists of 1148 images of various skin condition , icluding 6 types of acne, PIH, Melasma, freckles.
 ## Experimental Results
 - **MAP** : The trained model achieves an mAP of 51% on the test set
+
   ![map](map.png)
 - **User feedback** Some of my customers has tried and are sasitifed with the usefulness of this application 
